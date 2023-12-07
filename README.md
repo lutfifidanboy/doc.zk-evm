@@ -59,7 +59,7 @@ It is highly recommended that you use a tool like [`nvm`](https://github.com/nvm
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
+### Build Details
 
     $ npm run build
 
